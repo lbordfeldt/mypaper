@@ -1,5 +1,5 @@
 # mypaper
-A paper on my results on software carpentreology for the greater good.
+A paper on my results on software carpentreology for the Greater Good.
 
 ## Abstract
 Expand the abstract.
