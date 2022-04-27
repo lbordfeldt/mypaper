@@ -1,5 +1,5 @@
 # mypaper
-A paper of results I achieved with my fucking collaborators my results on software carpentreology for the greater good.
+A publication of results I achieved with my fucking collaborators my results on software carpentreology for the greater good.
 
 ## Abstract
 Expand the abstract.
